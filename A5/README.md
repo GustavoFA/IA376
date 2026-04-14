@@ -1,9 +1,5 @@
 # GAN — Generative Adversarial Networks on MNIST
 
-**Course:** IA376 — Generative Models  
-**Author:** Gustavo Freitas Alves  
-**Year:** 2026/1
-
 ## Overview
 
 This project implements and trains two types of Generative Adversarial Networks (GANs) to generate images of handwritten digits (0–9) using the MNIST dataset. The notebook is structured into two main parts:
